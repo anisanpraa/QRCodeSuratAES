@@ -1,3 +1,2 @@
-# QRCodeSuratAES
-contact me for more detail : annisanurulpratiwi07@gmail.com
+This application was made by me at the end of my college. I decided to make website as a server and android application as a client. The website of this application can made some QR-Code with cryptography algorithm AES 128-bit (encryption). And also the android application can be used for scanning QR-Code with cryptography algorithm AES 128-bit (decryption). Please contact me for more detail : annisanurulpratiwi07@gmail.com
 
