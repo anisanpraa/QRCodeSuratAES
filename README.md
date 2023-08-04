@@ -1,3 +1,3 @@
 # QRCodeSuratAES
-contact me for more detail : annisanurulpratiwi@gmail.com
+contact me for more detail : annisanurulpratiwi07@gmail.com
 
